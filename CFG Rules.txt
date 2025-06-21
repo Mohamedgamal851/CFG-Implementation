@@ -1,0 +1,22 @@
+1)
+S → aSbS | bSaS | ε
+
+
+2)
+S → ε | aSbbS | bbSaS | aSbb | abSb | bSab | baSb | bSba | bbSa
+
+
+3)
+S → aAb | bAa | aSb | bSa | aSa | bSb
+A → aA | bA | ε
+
+
+4)
+S → aaaB
+B → aaBb | ε
+
+
+
+5)
+S → aS | aSb | a
+
